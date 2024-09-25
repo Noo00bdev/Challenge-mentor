@@ -1,4 +1,18 @@
+
+body{
+    background-color:hsl(30, 54%, 90%) ;
+}
+
 .container{
     background-color:hsl(0, 0%, 100%) ;
-    margin: 400px;
+    margin: 0px 100px 100px 0px;
+    border-radius: 30px;
+}
+.image-omelette{
+    width: 590px;
+    margin: 40px;
+    border-radius: 10px;
+}
+.title-description{
+    margin: -40px 40px 40px 40px;
 }
