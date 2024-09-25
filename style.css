@@ -37,6 +37,7 @@ p{
 }
 ul{
     padding-left: -190px;
+    
 }
 li{
     font-family: 'Outfit', sans-serif;
@@ -44,6 +45,7 @@ li{
     margin-top: 30px;
     font-style: normal;
     padding-left: 40px;
+   
 }
 em{
     font-family: 'Outfit', sans-serif;
@@ -51,9 +53,19 @@ em{
     color:hsl(30, 10%, 34%) ;
     font-weight: 700;
 }
+.preparation-title{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color:hsl(332, 51%, 32%) ;
+}
 h2{
     font-family: 'Young Serif', serif;
     font-weight: 800;
     font-style: normal;
-    color:hsl(332, 51%, 32%) ;
+    color:hsl(14, 45%, 36%) ;
+}
+.ingredient{
+    margin: 40px 40px 40px 40px;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
 }
