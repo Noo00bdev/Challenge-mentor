@@ -5,7 +5,9 @@ body{
 
 .container{
     background-color:hsl(0, 0%, 100%) ;
-    margin: 0px 100px 100px 0px;
+    margin-top: 90px;
+    margin-left: 290px;
+    margin-right: 290px;
     border-radius: 30px;
 }
 .image-omelette{
@@ -15,4 +17,43 @@ body{
 }
 .title-description{
     margin: -40px 40px 40px 40px;
+}
+h1{
+    font-family: 'Young Serif', serif;
+    font-weight: 800;
+    font-size: 42px;
+    color:hsl(24, 5%, 18%) ;
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    color:hsl(30, 10%, 34%) ;
+}
+.preparation-time{
+    margin: 40px 40px 40px 40px;
+    background-color:hsl(330, 100%, 98%) ;
+    border-radius: 10px;
+    padding: 20px;
+}
+ul{
+    padding-left: -190px;
+}
+li{
+    font-family: 'Outfit', sans-serif;
+    color:hsl(30, 10%, 34%) ;
+    margin-top: 30px;
+    font-style: normal;
+    padding-left: 40px;
+}
+em{
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    color:hsl(30, 10%, 34%) ;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Young Serif', serif;
+    font-weight: 800;
+    font-style: normal;
+    color:hsl(332, 51%, 32%) ;
 }
