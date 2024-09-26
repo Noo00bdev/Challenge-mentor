@@ -69,3 +69,37 @@ h2{
     margin: 40px 40px 40px 40px;
     border-bottom: 1px solid hsl(30, 10%, 34%);
 }
+.instruction{
+    margin: 40px 40px 40px 40px;
+}
+.nutrition{
+    margin: 40px 40px 40px 40px;
+}
+.nutrition-list{
+    list-style-type: none;
+
+}
+
+.nutrition-list{
+    color:hsl(14, 45%, 36%) ;
+    padding-bottom: 5px;
+}
+.nutrition-list-og{
+    border-bottom: 1px solid hsl(30, 10%, 34%) ;
+    padding-bottom: 40px;
+}
+.nutrition-list-o{
+    padding-bottom: 40px;
+}
+.nutrition-list-1{
+    padding-left: 295px;
+}
+.nutrition-list-2{
+    padding-left: 310px;
+}
+.nutrition-list-3{
+    padding-left: 300px;
+}
+.nutrition-list-4{
+    padding-left: 330px;
+}
